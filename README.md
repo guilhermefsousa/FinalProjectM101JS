@@ -4,3 +4,4 @@
 - Importar a colecao "item":  mongoimport -d mongomart -c item data/items.json
 - Importar a colecao "carrinho": mongoimport -d mongomart -c cart data/cart.json
 - Execute o aplicativo com o comando "node mongomart" no diretorio.
+
